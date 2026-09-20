@@ -99,6 +99,14 @@ The predicted gesture is converted into an actual computer action using PyAutoGU
 | Release after drag         | Drop         |
 
 ---
+## Demo
+
+![AI Virtual Mouse Demo](assets/dragging.png.png
+          assets/left_click.png.png
+          assets/move.png.png
+          assets/pause.png.png
+          assets/right_click.png.png
+          assets/scroll.png.png)
 
 ## 🛠️ Tech Stack
 
